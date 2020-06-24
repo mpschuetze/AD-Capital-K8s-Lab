@@ -3,6 +3,6 @@ type: APPLICATION_MANIFEST
 gitFileConfig:
   branch: prod-adcapital
   connectorName: AppDGit
-  filePath: Rookout
+  filePath: Rookout/portal-deployment.yaml
   useBranch: true
 storeType: Remote
